@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # In this project, we utitlized the Csvkit library, which supercharges your workflow by adding 13 new command line tools specifically for working with CSV files. We focused on below 5 tools from Csvkit:
 
